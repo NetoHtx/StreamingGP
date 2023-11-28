@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/notificacoes"
+        android:enabled="true"
+        android:icon="@drawable/home_icon"
+        android:title="@string/menu_inicio"/>
+
+
+    <item
+        android:id="@+id/conta"
+        android:enabled="true"
+        android:icon="@drawable/star_icon"
+        android:title="@string/menu_lista"/>
+
+    <item
+        android:id="@+id/configuration"
+        android:enabled="true"
+        android:icon="@drawable/cast_icon"
+        android:title="@string/trasmitir_menu"
+        />
+
+    <item
+        android:id="@+id/ia"
+        android:enabled="true"
+        android:icon="@drawable/person_icon"
+        android:title="@string/conta_menu"/>
+</menu>

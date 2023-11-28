@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.StreamingGP" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#232323</item>
+        <!-- Adicione outras propriedades de cor conforme necessário -->
+    </style>
+
+    <style name="Theme.StreamingGP" parent="Base.Theme.StreamingGP" />
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StreamingGP</string>
+
+
+    <string name="menu_inicio">Inicio</string>
+    <string name="menu_lista">Minha lista</string>
+    <string name="trasmitir_menu">Transmitir</string>
+    <string name="conta_menu">Conta</string>
+</resources>
